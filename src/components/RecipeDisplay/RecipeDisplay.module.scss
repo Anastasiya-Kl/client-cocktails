@@ -1,0 +1,17 @@
+.display {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  > img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+}
+.list {
+  text-align: left;
+  margin-top: 20px;
+  > li {
+    margin-bottom: 10px;
+  }
+}
